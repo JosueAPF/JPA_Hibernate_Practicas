@@ -8,6 +8,7 @@
 
         <!--Representamos las Clases y uso de la etiqueta class--> 
         <class>Practica_1_consola.EntidadPersona</class>
+        <class>Practica_2_consola.Mascotas</class>
 
         <!--Propiedades de la conexión-->
         <properties>
